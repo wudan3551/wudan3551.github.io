@@ -10,6 +10,7 @@ ctags --c-kinds=+p filename.c
 
 #### Step2 : vim filename.c
 now you can use
+
 ```
 ctrl + ] : jump to defination
 ctrl + t : return to occurance
