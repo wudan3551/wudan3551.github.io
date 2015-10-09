@@ -25,7 +25,7 @@ int lis(vector<int>& data){
 }
 ```
 
-#### Solution two
+#### Solution two O(Nxlog(N))
 use a table to store the **minimal maximum** value of a LIS with length n
 for example:
     table[2] stores the minimal (maximum value of a LIS with length of 2 + 1)
